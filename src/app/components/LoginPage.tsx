@@ -5,7 +5,7 @@ import { Label } from "./ui/label";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "./ui/card";
 import { Checkbox } from "./ui/checkbox";
 import { UserSetup } from "./UserSetup";
-import logoImage from "/assets/img/header_logo01.svg";
+import logoImage from "/src/assets/header_logo01.svg";
 
 interface LoginPageProps {
   onLogin: (email: string, password: string) => void;
