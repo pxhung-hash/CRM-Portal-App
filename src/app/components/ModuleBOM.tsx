@@ -23,7 +23,7 @@ import {
   Copy
 } from "lucide-react";
 import { AddNewElevation } from "./AddNewElevation";
-import windowElevationImage from "figma:asset/9feadb970b796b1bb6e2568e4a0ec5369851912f.png";
+import windowElevationImage from "https://ykkap.vn/assets/img/header_logo01.svg";
 
 interface ElevationItem {
   id: number;
